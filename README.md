@@ -1,5 +1,5 @@
 # awscertification
-helpful resource
+Helpful resource
 
 ### Only course you will need
 Stephane Maarek AWS Solution Architect Associate - https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/
